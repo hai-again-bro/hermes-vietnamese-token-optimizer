@@ -1,0 +1,22 @@
+{
+  "lóng_words": {
+    "mà_sao": "mà",
+    "cái_gì": "gì",
+    "ai_đó": "ai",
+    "hơi": "h",
+    "vừa_rồi": "vừa",
+    "ngay_bây_giờ": "bây_h"
+  },
+  "domain_terms": {
+    "Hermes": "HERMES",
+    "Token": "TKN",
+    "Optimizer": "OPT",
+    "Vietnamese": "VI"
+  },
+  "abbreviations": {
+    "v.v": "vv",
+    "etc": "etc",
+    "tức_là": "tl",
+    "ví_dụ": "vd"
+  }
+}

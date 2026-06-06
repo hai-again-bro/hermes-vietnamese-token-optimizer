@@ -1,0 +1,12 @@
+{
+  "strategy": "balanced",
+  "cache_enabled": true,
+  "max_cache_size": 10000,
+  "remove_stopwords": true,
+  "normalize_diacritics": true,
+  "segment_words": true,
+  "remove_extra_spaces": true,
+  "logging_level": "INFO",
+  "custom_dictionary": null,
+  "custom_stopwords": null
+}
